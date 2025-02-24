@@ -16,8 +16,8 @@
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
-0.0.0.0 
-0.0.0.0 
+0.0.0.0 static.addtoany.com/*
+0.0.0.0 nbb.rest/*
 0.0.0.0 *.*/?publisherId
 0.0.0.0  *.clips4sale.*
 0.0.0.0  https://storage.multstorage.com/log/count.html
