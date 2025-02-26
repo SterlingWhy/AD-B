@@ -213,7 +213,7 @@
 0.0.0.0
 0.0.0.0
 0.0.0.0
-0.0.0.0
+0.0.0.0 *.exoclick.com/*
 0.0.0.0 *.candynetwork.ai
 0.0.0.0 ctcdwm.com
 0.0.0.0 traf.danil.me
