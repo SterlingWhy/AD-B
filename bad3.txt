@@ -1,0 +1,45 @@
+# Europe-focused trackers
+0.0.0.0 adform.net              # Danish ad platform, strong in Europe
+0.0.0.0 cdn.adform.net
+0.0.0.0 track.adform.net
+0.0.0.0 gemius.pl              # Polish analytics, widely used in Eastern Europe
+0.0.0.0 gapl.hit.gemius.pl
+0.0.0.0 adtech.de             # German ad tech, prominent in DACH region
+0.0.0.0 atdmt.com             # Microsoft-owned, used in Europe (often via MSN)
+0.0.0.0 criteo.com            # French retargeting ads, big in EU
+0.0.0.0 criteo.net
+0.0.0.0 disqus.com            # Commenting system with tracking, EU presence
+0.0.0.0 cdn.disqus.com
+
+# Asia-focused trackers
+0.0.0.0 adnxs-appnex.com      # AppNexus, used by Asian ad networks
+0.0.0.0 cnzz.com              # Chinese analytics (Baidu-owned)
+0.0.0.0 hm.baidu.com          # Baidu analytics, dominant in China
+0.0.0.0 pos.baidu.com
+0.0.0.0 tns-counter.ru        # Russian analytics, prevalent in CIS countries
+0.0.0.0 mc.yandex.ru          # Yandex Metrica, Russia/CIS analytics
+0.0.0.0 ext.livetex.ru        # Russian customer tracking
+0.0.0.0 linezing.com          # Chinese ad tracking (Tencent-related)
+0.0.0.0 stats.linezing.com
+
+# Latin America-focused trackers
+0.0.0.0 adsmovil.com          # Mobile ad network, strong in LatAm
+0.0.0.0 pixel.adsmovil.com
+0.0.0.0 mercadolibre.com      # E-commerce tracking, LatAm focus
+0.0.0.0 collector.mercadolibre.com
+0.0.0.0 navegg.com            # Brazilian analytics/tracking
+0.0.0.0 navdmp.com            # Navegg’s DMP, LatAm usage
+0.0.0.0 rtb-useast.oewabox.at # Austrian ad tech, used in LatAm markets
+
+# Middle East & Africa-focused trackers
+0.0.0.0 effective-measure.net # Analytics, popular in MENA/South Africa
+0.0.0.0 em-content.net
+0.0.0.0 ads.creative-serving.com # Ad serving, active in MENA
+0.0.0.0 ad-maven.com         # Israeli ad network, MENA presence
+0.0.0.0 pixel.ad-maven.com
+
+# Oceania-focused trackers
+0.0.0.0 ads.nzme.co.nz        # New Zealand media ad tracking
+0.0.0.0 fairfaxmedia.com.au   # Australian media analytics
+0.0.0.0 pixel.fairfaxmedia.com.au
+0.0.0.0 apnx.com.au           # Australian ad exchange
