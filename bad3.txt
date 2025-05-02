@@ -55,6 +55,7 @@
 0.0.0.0 *.mbidpp.com/*
 0.0.0.0 *.mbidadm.com/*
 0.0.0.0 *.lust-goddess-game.com/*
+0.0.0.0 landing.lust-goddess-game.com/*
 0.0.0.0 *zimpolo.com/*
 0.0.0.0 *.adforcast.com/*
 0.0.0.0 *.bmmads.com/*
@@ -62,3 +63,4 @@
 0.0.0.0 js.mbidadm.com/*
 0.0.0.0 js.mbidpp.com/*
 0.0.0.0 *.adBanner*
+0.0.0.0 *.doubleclick.net*
