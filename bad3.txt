@@ -50,3 +50,6 @@
 0.0.0.0 *.juicyads.com/*
 0.0.0.0 *?tour=*
 
+0.0.0.0 *.ondatraflemish.com/*
+0.0.0.0 *.mbidpp.com/*
+0.0.0.0 *.mbidadm.com/*
