@@ -1,3 +1,9 @@
+0.0.0.0 127.0.0.1
+
+
+
+
+
 # Europe-focused trackers
 0.0.0.0 adform.net              # Danish ad platform, strong in Europe
 0.0.0.0 cdn.adform.net
