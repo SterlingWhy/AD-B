@@ -51,5 +51,10 @@
 0.0.0.0 *?tour=*
 
 0.0.0.0 *.ondatraflemish.com/*
+0.0.0.0 *//um.ondatraflemish.com/*
 0.0.0.0 *.mbidpp.com/*
 0.0.0.0 *.mbidadm.com/*
+0.0.0.0 *.lust-goddess-game.com/*
+0.0.0.0 *zimpolo.com/*
+0.0.0.0 *.adforcast.com/*
+0.0.0.0 *.bmmads.com/*
