@@ -58,3 +58,4 @@
 0.0.0.0 *zimpolo.com/*
 0.0.0.0 *.adforcast.com/*
 0.0.0.0 *.bmmads.com/*
+0.0.0.0 *puttanpardao.top/*
