@@ -71,3 +71,5 @@
 0.0.0.0 *.adBanner*
 0.0.0.0 *.doubleclick.net*
 0.0.0.0 *sportshard.com*
+0.0.0.0 *.tplinkcloud.com*
+
