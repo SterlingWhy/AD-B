@@ -55,7 +55,6 @@
 0.0.0.0 *.c63b91ca50.com/*
 0.0.0.0 *.juicyads.com/*
 0.0.0.0 *?tour=*
-
 0.0.0.0 *.ondatraflemish.com/*
 0.0.0.0 um.ondatraflemish.com/*
 0.0.0.0 *.mbidpp.com/*
@@ -72,4 +71,7 @@
 0.0.0.0 *.doubleclick.net*
 0.0.0.0 *sportshard.com*
 0.0.0.0 *.tplinkcloud.com*
+0.0.0.0 *.tplinknbu.com*
+0.0.0.0 *.tplinknbu.com*
+142.250.191.46 *facebook*
 
