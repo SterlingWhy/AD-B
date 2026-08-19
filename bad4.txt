@@ -29738,11 +29738,6 @@
 0.0.0.0 live.chartboost.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
-#YOUTUBE
-#0.0.0.0 s.youtube.com
-0.0.0.0 redirector.googlevideo.com
-0.0.0.0 youtubei.googleapis.com
-#YOUTUBE
 0.0.0.0
 0.0.0.0
 0.0.0.0
