@@ -29738,5 +29738,44 @@
 0.0.0.0 live.chartboost.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
-0.0.0.0 *samsung*
+0.0.0.0 samsungacr.com
+0.0.0.0 samsungads.com
+0.0.0.0 samsungqbe.com
+0.0.0.0 samsungads.com.edgesuite.net
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 log-config.samsungcloudsolution.com
+0.0.0.0 logging.samsungcloudsolution.com
+0.0.0.0 gpm.samsungqbe.com
+0.0.0.0 vas.samsungapps.com
+0.0.0.0 analytics.samsungsmarttv.com
 0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+
