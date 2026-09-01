@@ -29738,5 +29738,5 @@
 0.0.0.0 live.chartboost.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 outcome-ssp.supersonicads.com
+0.0.0.0 *samsung*
 0.0.0.0
-
