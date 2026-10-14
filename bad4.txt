@@ -29748,7 +29748,7 @@
 0.0.0.0 vas.samsungapps.com
 0.0.0.0 analytics.samsungsmarttv.com
 0.0.0.0 s.smartfloralab.com/*
-0.0.0.0
+0.0.0.0 
 0.0.0.0
 0.0.0.0
 0.0.0.0
